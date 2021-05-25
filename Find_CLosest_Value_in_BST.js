@@ -26,7 +26,7 @@ function findClosestValueInBstHelper(tree, target, closest) {
 //o(n)TS-->worst
 
 function findClosestValueInBst(tree, target) {
-  return findClosestValueBstHelper(tree, target, Number.MAX_VALUE);
+  return findClosestValueBstHelper(tree, target, tree.value);
 }
 
 function findClosestValueBstHelper(tree, target, closest) {
