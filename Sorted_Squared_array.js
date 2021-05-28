@@ -1,3 +1,12 @@
+/*
+  Ques- Write a function that takes in a non-empty array of integers that are sorted
+        in ascending order and returns a new array of the same length with the squares
+        of the original integers also sorted in ascending order.
+
+      Input = [1, 2, 3, 5, 6, 8, 9]
+      Output = [1, 4, 9, 25, 36, 64, 81]
+*/
+
 /*-------- O(nlogn) time | O(n) space --------- This take more time because of sorting*/
 
 function sortedSquaredArray(array) {
