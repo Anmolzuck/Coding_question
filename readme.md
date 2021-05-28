@@ -14,3 +14,4 @@
 | 08  | Nodes Sum                 | [JavaScript](https://github.com/Anmolzuck/Coding_question/blob/master/Nodes_Sum.js)                 | EASY       |
 | 09  | Depth first search        | [JavaScript](https://github.com/Anmolzuck/Coding_question/blob/master/Depth_FIrst_Search.js)        | EASY       |
 | 10  | MInimum Waiting Time      | [JavaScript](https://github.com/Anmolzuck/Coding_question/blob/master/Minimum_Waiting_time.js)      | EASY       |
+| 11  | Nth Fibonacci             | [JavaScript](https://github.com/Anmolzuck/Coding_question/blob/master/Nth_Fibonacci.js)             | EASY       |
