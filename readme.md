@@ -13,3 +13,4 @@
 | 07  | Branch sum of BST         | [JavaScript](https://github.com/Anmolzuck/Coding_question/blob/master/Branched_sum.js)              | EASY       |
 | 08  | Nodes Sum                 | [JavaScript](https://github.com/Anmolzuck/Coding_question/blob/master/Nodes_Sum.js)                 | EASY       |
 | 09  | Depth first search        | [JavaScript](https://github.com/Anmolzuck/Coding_question/blob/master/Depth_FIrst_Search.js)        | EASY       |
+| 10  | MInimum Waiting Time      | [JavaScript](https://github.com/Anmolzuck/Coding_question/blob/master/Minimum_Waiting_time.js)      | EASY       |
